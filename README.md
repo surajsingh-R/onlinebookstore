@@ -140,3 +140,4 @@ Note:- Considering that this is a Sample Project, we have used a Generic Servlet
 #test3
 #test4
 #test5
+#all
